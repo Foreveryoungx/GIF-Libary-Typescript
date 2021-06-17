@@ -10,7 +10,7 @@ practice with using typescript and react hooks to query a API
 * https://getsearched.netlify.app
 
 ## Help
-*Currently no issues found
+*styling issue on cellular devices 
 
 ## Authors
 Trevon Allen 

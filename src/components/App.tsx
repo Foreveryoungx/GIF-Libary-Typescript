@@ -7,7 +7,7 @@ import GifList from './GifList';
 
 function App() {
   const [data, setData] = useState([])
-  const [query, setQuery] = useState('random');
+  const [query, setQuery] = useState('Tech');
   const [isLoading, setIsLoading] = useState(true);
   const performSearch = (value: React.SetStateAction<string>) => setQuery(value);
   useEffect(() => {
